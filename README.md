@@ -111,7 +111,7 @@ This project demonstrates how Microsoft Excel can be used to transform raw sales
 **Abdullah Faiz**
 
 - LinkedIn: www.linkedin.com/in/abdullah-faiz-55089627b
-- GitHub: https://github.com/YourUsername
+- GitHub: https://github.com/Abdullahfaiz20
 
 ---
 
